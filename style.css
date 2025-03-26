@@ -615,6 +615,7 @@ img {
     margin: auto;
     font-size: x-large;
     margin-bottom: 30px;
+    width: 1430px;
 }
 
 .sports-box-title h2 {
@@ -691,6 +692,7 @@ img {
 
 .sports-content-box-item-1 {
     width: 48%;
+    margin-bottom: 15px;
 }
 
 .sports-box-content {
@@ -705,7 +707,7 @@ img {
 
 .country-menu-box {
     display: flex;
-    margin-top: 50px;
+    margin-top: 100px;
     width: 1430px;
     justify-content: space-between;
 }
@@ -721,32 +723,31 @@ img {
     text-decoration: none;
     padding: 10px;
     display: block;
+    color: black;
 }
 
 .coutry-menu-box-text h3 {
     font-size: 32px;
 }
 
+.sports-item-box-image {
+    margin-bottom: 14px;
+}
 
+.country-news-box {
+    width: 1430px;
+}
 
+.news-matter.box-item {
+    width: 20%;
+    padding: 20px;
+}
 
+.news-lead-matter {
+    width: 27%;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.news-matter-box-left {
+    margin-top: 5%;
+    display: flex;
+}
