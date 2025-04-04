@@ -486,7 +486,7 @@ body {
     display: flex;
     margin: auto;
     justify-content: space-between;
-    margin-bottom: 20px;
+    margin-bottom: 100px;
     flex-direction: column;
 }
 
@@ -516,7 +516,7 @@ body {
 .news-section-box-title h3 {
     font-size: 31px;
     padding-bottom: 13px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     border-bottom: 3px solid sandybrown;
     color: sandybrown;
 }
@@ -821,4 +821,32 @@ img {
 
 .country-menu-item ul li:last-child {
     margin-right: 0;
+}
+
+.matter-rigut-box-news {
+    width: 30%;
+    padding: 10px;
+}
+
+.matter-right-box-item-1 {
+    margin-bottom: 15px;
+    border-bottom: 1px solid;
+}
+
+.right-box-item-image {
+    margin-bottom: 10px;
+}
+
+.news-matter-box-right {
+    display: flex;
+    justify-content: space-between;
+}
+
+.news-map-text h3 {
+    font-size: 27px;
+    margin-bottom: 10px;
+}
+
+.news-right-box-map {
+    width: 58%;
 }
