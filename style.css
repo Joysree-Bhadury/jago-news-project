@@ -712,7 +712,7 @@ img {
     /* margin-top: 100px; */
     width: auto;
     justify-content: space-between;
-    margin-bottom: 26px;
+    margin-bottom: 80px;
 }
 
 .country-menu-item ul {
@@ -848,5 +848,19 @@ img {
 }
 
 .news-right-box-map {
-    width: 58%;
+    width: 40%;
+}
+
+.international-section {
+    width: 1430px;
+    margin: auto;
+}
+
+.international-menu-box-item>ul {
+    display: flex;
+}
+
+.international-section-menu {
+    display: flex;
+    justify-content: space-between;
 }
